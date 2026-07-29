@@ -1,0 +1,16 @@
+{
+    "submission_id": "2086109216",
+    "problem_number": "118",
+    "title": "118. Pascal's Triangle",
+    "title_slug": "pascals-triangle",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19288000,
+    "timestamp": "2026-07-29 18:09",
+    "topic_tags": [
+        "Array",
+        "Dynamic Programming"
+    ]
+}
