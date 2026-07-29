@@ -1,0 +1,16 @@
+{
+    "submission_id": "2023168074",
+    "problem_number": "121",
+    "title": "121. Best Time to Buy and Sell Stock",
+    "title_slug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 45,
+    "memory": 28616000,
+    "timestamp": "2026-06-05 15:48",
+    "topic_tags": [
+        "Array",
+        "Dynamic Programming"
+    ]
+}
