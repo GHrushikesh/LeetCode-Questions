@@ -1,0 +1,15 @@
+{
+    "submission_id": "2023008095",
+    "problem_number": "485",
+    "title": "485. Max Consecutive Ones",
+    "title_slug": "max-consecutive-ones",
+    "difficulty": "Easy",
+    "language": "Python",
+    "status": "Accepted",
+    "runtime": 15,
+    "memory": 13540000,
+    "timestamp": "2026-06-05 12:33",
+    "topic_tags": [
+        "Array"
+    ]
+}
