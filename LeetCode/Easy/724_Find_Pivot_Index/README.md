@@ -6,8 +6,8 @@
 | :--- | :--- |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Runtime** | `3` |
-| **Memory** | `20352000` |
+| **Runtime** | `N/A` |
+| **Memory** | `20460000` |
 | **Topic Tags** | `Array, Prefix Sum` |
 | **Date** | `2026-07-24 19:38` |
 
