@@ -1,0 +1,18 @@
+{
+    "submission_id": "2073666312",
+    "problem_number": "1512",
+    "title": "1512. Number of Good Pairs",
+    "title_slug": "number-of-good-pairs",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19216000,
+    "timestamp": "2026-07-19 21:43",
+    "topic_tags": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Counting"
+    ]
+}
