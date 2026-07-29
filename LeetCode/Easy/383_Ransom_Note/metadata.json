@@ -1,0 +1,17 @@
+{
+    "submission_id": "2083337206",
+    "problem_number": "383",
+    "title": "383. Ransom Note",
+    "title_slug": "ransom-note",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 32,
+    "memory": 19540000,
+    "timestamp": "2026-07-27 18:02",
+    "topic_tags": [
+        "Hash Table",
+        "String",
+        "Counting"
+    ]
+}
