@@ -1,0 +1,18 @@
+{
+    "submission_id": "2074564257",
+    "problem_number": "387",
+    "title": "387. First Unique Character in a String",
+    "title_slug": "first-unique-character-in-a-string",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 75,
+    "memory": 19564000,
+    "timestamp": "2026-07-20 18:18",
+    "topic_tags": [
+        "Hash Table",
+        "String",
+        "Queue",
+        "Counting"
+    ]
+}
