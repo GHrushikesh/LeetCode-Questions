@@ -1,5 +1,5 @@
 {
-    "submission_id": "2086023068",
+    "submission_id": "2086014074",
     "problem_number": "414",
     "title": "414. Third Maximum Number",
     "title_slug": "third-maximum-number",
@@ -7,8 +7,8 @@
     "language": "Python3",
     "status": "Accepted",
     "runtime": "N/A",
-    "memory": 19608000,
-    "timestamp": "2026-07-29 16:38",
+    "memory": 19736000,
+    "timestamp": "2026-07-29 16:29",
     "topic_tags": [
         "Array",
         "Sorting"
