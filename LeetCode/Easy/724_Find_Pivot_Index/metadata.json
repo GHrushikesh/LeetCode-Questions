@@ -1,0 +1,18 @@
+{
+    "submission_id": "2086027101",
+    "title": "724. Find Pivot Index",
+    "title_slug": "find-pivot-index",
+    "problem_number": "724",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "timestamp": "2026-07-29 16:42",
+    "topic_tags": [
+        "Array",
+        "Prefix Sum"
+    ],
+    "time_complexity": null,
+    "space_complexity": null
+}
