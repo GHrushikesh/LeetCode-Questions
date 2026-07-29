@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Runtime** | `3` |
-| **Memory** | `19720000` |
+| **Runtime** | `N/A` |
+| **Memory** | `19692000` |
 | **Topic Tags** | `Array, Sorting` |
-| **Date** | `2026-07-27 18:15` |
+| **Date** | `2026-07-29 16:39` |
 
 ## Solution
 
