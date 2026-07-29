@@ -7,9 +7,9 @@
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
 | **Runtime** | `N/A` |
-| **Memory** | `19748000` |
+| **Memory** | `19860000` |
 | **Topic Tags** | `Array, Sorting` |
-| **Date** | `2026-07-29 16:26` |
+| **Date** | `2026-07-29 16:23` |
 
 ## Solution
 
