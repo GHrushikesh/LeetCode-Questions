@@ -1,14 +1,14 @@
 {
-    "submission_id": "2084302451",
+    "submission_id": "1787110296",
     "problem_number": "1",
     "title": "1. Two Sum",
     "title_slug": "two-sum",
     "difficulty": "Easy",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": 1737,
-    "memory": 19928000,
-    "timestamp": "2026-07-28 11:44",
+    "runtime": "N/A",
+    "memory": 18892000,
+    "timestamp": "2025-09-30 15:12",
     "topic_tags": [
         "Array",
         "Hash Table"
