@@ -6,8 +6,8 @@
 | :--- | :--- |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Runtime** | `15` |
-| **Memory** | `19560000` |
+| **Runtime** | `23` |
+| **Memory** | `19536000` |
 | **Topic Tags** | `Array, Hash Table, Stack, Monotonic Stack` |
 | **Date** | `2026-07-29 17:44` |
 
