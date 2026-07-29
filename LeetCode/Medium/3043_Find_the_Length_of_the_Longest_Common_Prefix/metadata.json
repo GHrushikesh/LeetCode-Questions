@@ -1,0 +1,18 @@
+{
+    "submission_id": "2008735834",
+    "problem_number": "3043",
+    "title": "3043. Find the Length of the Longest Common Prefix",
+    "title_slug": "find-the-length-of-the-longest-common-prefix",
+    "difficulty": "Medium",
+    "language": "Python",
+    "status": "Accepted",
+    "runtime": 509,
+    "memory": 23932000,
+    "timestamp": "2026-05-21 11:15",
+    "topic_tags": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie"
+    ]
+}
