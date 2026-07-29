@@ -1,13 +1,13 @@
 {
-    "submission_id": "2072319705",
+    "submission_id": "2072319262",
     "problem_number": "3992",
     "title": "3992. Rearrange String to Avoid Character Pair",
     "title_slug": "rearrange-string-to-avoid-character-pair",
     "difficulty": "Easy",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": "N/A",
-    "memory": 19336000,
+    "runtime": 1,
+    "memory": 19436000,
     "timestamp": "2026-07-18 20:04",
     "topic_tags": []
 }
