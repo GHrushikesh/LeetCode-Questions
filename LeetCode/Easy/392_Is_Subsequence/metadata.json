@@ -1,0 +1,17 @@
+{
+    "submission_id": "2086438340",
+    "problem_number": "392",
+    "title": "392. Is Subsequence",
+    "title_slug": "is-subsequence",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19216000,
+    "timestamp": "2026-07-29 22:22",
+    "topic_tags": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+    ]
+}
