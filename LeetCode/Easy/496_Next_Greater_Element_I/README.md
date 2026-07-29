@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Runtime** | `22` |
-| **Memory** | `19524000` |
+| **Runtime** | `19` |
+| **Memory** | `19428000` |
 | **Topic Tags** | `Array, Hash Table, Stack, Monotonic Stack` |
-| **Date** | `2026-07-29 17:54` |
+| **Date** | `2026-07-29 17:45` |
 
 ## Solution
 
