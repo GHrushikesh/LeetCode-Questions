@@ -1,0 +1,17 @@
+{
+    "submission_id": "2086097459",
+    "problem_number": "905",
+    "title": "905. Sort Array By Parity",
+    "title_slug": "sort-array-by-parity",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 2,
+    "memory": 19744000,
+    "timestamp": "2026-07-29 17:57",
+    "topic_tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+    ]
+}
