@@ -1,0 +1,16 @@
+{
+    "submission_id": "2069852572",
+    "problem_number": "1929",
+    "title": "1929. Concatenation of Array",
+    "title_slug": "concatenation-of-array",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 2,
+    "memory": 19276000,
+    "timestamp": "2026-07-16 18:04",
+    "topic_tags": [
+        "Array",
+        "Simulation"
+    ]
+}
