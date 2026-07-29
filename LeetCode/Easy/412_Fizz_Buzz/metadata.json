@@ -1,0 +1,17 @@
+{
+    "submission_id": "2008747960",
+    "problem_number": "412",
+    "title": "412. Fizz Buzz",
+    "title_slug": "fizz-buzz",
+    "difficulty": "Easy",
+    "language": "Python",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 13256000,
+    "timestamp": "2026-05-21 11:29",
+    "topic_tags": [
+        "Math",
+        "String",
+        "Simulation"
+    ]
+}
