@@ -7,9 +7,9 @@
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
 | **Runtime** | `7` |
-| **Memory** | `21656000` |
+| **Memory** | `21668000` |
 | **Topic Tags** | `Array, Bit Manipulation` |
-| **Date** | `2026-07-23 17:53` |
+| **Date** | `2026-07-23 17:52` |
 
 ## Solution
 

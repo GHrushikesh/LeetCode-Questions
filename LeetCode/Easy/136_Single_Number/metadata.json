@@ -1,5 +1,5 @@
 {
-    "submission_id": "2078368821",
+    "submission_id": "2078367860",
     "problem_number": "136",
     "title": "136. Single Number",
     "title_slug": "single-number",
@@ -7,8 +7,8 @@
     "language": "Python3",
     "status": "Accepted",
     "runtime": 7,
-    "memory": 21656000,
-    "timestamp": "2026-07-23 17:53",
+    "memory": 21668000,
+    "timestamp": "2026-07-23 17:52",
     "topic_tags": [
         "Array",
         "Bit Manipulation"
