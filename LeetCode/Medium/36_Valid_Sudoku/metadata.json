@@ -1,0 +1,17 @@
+{
+    "submission_id": "2029347892",
+    "problem_number": "36",
+    "title": "36. Valid Sudoku",
+    "title_slug": "valid-sudoku",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19384000,
+    "timestamp": "2026-06-11 11:28",
+    "topic_tags": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+    ]
+}
