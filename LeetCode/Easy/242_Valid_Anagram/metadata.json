@@ -1,0 +1,17 @@
+{
+    "submission_id": "2075754493",
+    "problem_number": "242",
+    "title": "242. Valid Anagram",
+    "title_slug": "valid-anagram",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 16,
+    "memory": 19464000,
+    "timestamp": "2026-07-21 17:11",
+    "topic_tags": [
+        "Hash Table",
+        "String",
+        "Sorting"
+    ]
+}
