@@ -1,0 +1,17 @@
+{
+    "submission_id": "1787112801",
+    "problem_number": "3",
+    "title": "3. Longest Substring Without Repeating Characters",
+    "title_slug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "language": "Java",
+    "status": "Accepted",
+    "runtime": 5,
+    "memory": 44752000,
+    "timestamp": "2025-09-30 15:16",
+    "topic_tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+    ]
+}
