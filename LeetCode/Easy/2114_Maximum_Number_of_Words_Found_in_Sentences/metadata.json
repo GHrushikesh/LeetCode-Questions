@@ -1,0 +1,16 @@
+{
+    "submission_id": "2073675786",
+    "problem_number": "2114",
+    "title": "2114. Maximum Number of Words Found in Sentences",
+    "title_slug": "maximum-number-of-words-found-in-sentences",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19204000,
+    "timestamp": "2026-07-19 21:52",
+    "topic_tags": [
+        "Array",
+        "String"
+    ]
+}
