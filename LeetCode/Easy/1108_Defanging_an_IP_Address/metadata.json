@@ -1,0 +1,15 @@
+{
+    "submission_id": "2073276607",
+    "problem_number": "1108",
+    "title": "1108. Defanging an IP Address",
+    "title_slug": "defanging-an-ip-address",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 46,
+    "memory": 19428000,
+    "timestamp": "2026-07-19 14:34",
+    "topic_tags": [
+        "String"
+    ]
+}
