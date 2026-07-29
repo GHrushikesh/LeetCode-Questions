@@ -1,14 +1,14 @@
 {
-    "submission_id": "2061962586",
+    "submission_id": "2061961588",
     "problem_number": "239",
     "title": "239. Sliding Window Maximum",
     "title_slug": "sliding-window-maximum",
     "difficulty": "Hard",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": 195,
-    "memory": 35316000,
-    "timestamp": "2026-07-09 21:57",
+    "runtime": 183,
+    "memory": 35200000,
+    "timestamp": "2026-07-09 21:56",
     "topic_tags": [
         "Array",
         "Queue",

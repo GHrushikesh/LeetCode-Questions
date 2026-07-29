@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Hard` |
 | **Language** | `Python3` |
-| **Runtime** | `195` |
-| **Memory** | `35316000` |
+| **Runtime** | `183` |
+| **Memory** | `35200000` |
 | **Topic Tags** | `Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue` |
-| **Date** | `2026-07-09 21:57` |
+| **Date** | `2026-07-09 21:56` |
 
 ## Solution
 
