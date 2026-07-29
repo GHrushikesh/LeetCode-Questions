@@ -1,0 +1,16 @@
+{
+    "submission_id": "2068685750",
+    "problem_number": "1920",
+    "title": "1920. Build Array from Permutation",
+    "title_slug": "build-array-from-permutation",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 5,
+    "memory": 19552000,
+    "timestamp": "2026-07-15 19:30",
+    "topic_tags": [
+        "Array",
+        "Simulation"
+    ]
+}
