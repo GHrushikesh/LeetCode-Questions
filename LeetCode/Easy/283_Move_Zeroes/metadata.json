@@ -1,0 +1,16 @@
+{
+    "submission_id": "2027845319",
+    "problem_number": "283",
+    "title": "283. Move Zeroes",
+    "title_slug": "move-zeroes",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 7,
+    "memory": 20572000,
+    "timestamp": "2026-06-09 23:34",
+    "topic_tags": [
+        "Array",
+        "Two Pointers"
+    ]
+}
