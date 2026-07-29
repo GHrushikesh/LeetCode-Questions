@@ -1,14 +1,14 @@
 {
-    "submission_id": "2086085801",
+    "submission_id": "2086084729",
     "problem_number": "496",
     "title": "496. Next Greater Element I",
     "title_slug": "next-greater-element-i",
     "difficulty": "Easy",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": 19,
-    "memory": 19428000,
-    "timestamp": "2026-07-29 17:45",
+    "runtime": 15,
+    "memory": 19560000,
+    "timestamp": "2026-07-29 17:44",
     "topic_tags": [
         "Array",
         "Hash Table",
