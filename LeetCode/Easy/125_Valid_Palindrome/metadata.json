@@ -1,0 +1,16 @@
+{
+    "submission_id": "2077188105",
+    "problem_number": "125",
+    "title": "125. Valid Palindrome",
+    "title_slug": "valid-palindrome",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 10,
+    "memory": 19732000,
+    "timestamp": "2026-07-22 19:27",
+    "topic_tags": [
+        "Two Pointers",
+        "String"
+    ]
+}
