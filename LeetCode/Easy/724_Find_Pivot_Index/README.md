@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Runtime** | `N/A` |
-| **Memory** | `N/A` |
+| **Runtime** | `5` |
+| **Memory** | `20388000` |
 | **Topic Tags** | `Array, Prefix Sum` |
-| **Date** | `2026-07-29 16:42` |
+| **Date** | `2026-07-26 19:26` |
 
 ## Solution
 
