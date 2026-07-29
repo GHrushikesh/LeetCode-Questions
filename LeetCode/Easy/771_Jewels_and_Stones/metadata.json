@@ -1,0 +1,16 @@
+{
+    "submission_id": "2073280686",
+    "problem_number": "771",
+    "title": "771. Jewels and Stones",
+    "title_slug": "jewels-and-stones",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19248000,
+    "timestamp": "2026-07-19 14:39",
+    "topic_tags": [
+        "Hash Table",
+        "String"
+    ]
+}
