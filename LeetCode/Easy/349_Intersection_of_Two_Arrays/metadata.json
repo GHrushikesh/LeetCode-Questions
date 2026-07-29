@@ -1,0 +1,19 @@
+{
+    "submission_id": "2079650982",
+    "problem_number": "349",
+    "title": "349. Intersection of Two Arrays",
+    "title_slug": "intersection-of-two-arrays",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19320000,
+    "timestamp": "2026-07-24 19:33",
+    "topic_tags": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+    ]
+}
