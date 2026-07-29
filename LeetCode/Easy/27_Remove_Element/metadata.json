@@ -1,0 +1,16 @@
+{
+    "submission_id": "2084798372",
+    "problem_number": "27",
+    "title": "27. Remove Element",
+    "title_slug": "remove-element",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19412000,
+    "timestamp": "2026-07-28 18:55",
+    "topic_tags": [
+        "Array",
+        "Two Pointers"
+    ]
+}
