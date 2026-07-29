@@ -1,0 +1,19 @@
+{
+    "submission_id": "2037485337",
+    "problem_number": "729",
+    "title": "729. My Calendar I",
+    "title_slug": "my-calendar-i",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 239,
+    "memory": 20168000,
+    "timestamp": "2026-06-18 16:40",
+    "topic_tags": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Segment Tree",
+        "Ordered Set"
+    ]
+}
