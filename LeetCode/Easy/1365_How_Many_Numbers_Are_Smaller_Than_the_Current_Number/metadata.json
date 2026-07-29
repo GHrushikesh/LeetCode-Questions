@@ -1,0 +1,18 @@
+{
+    "submission_id": "2071318930",
+    "problem_number": "1365",
+    "title": "1365. How Many Numbers Are Smaller Than the Current Number",
+    "title_slug": "how-many-numbers-are-smaller-than-the-current-number",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 146,
+    "memory": 19212000,
+    "timestamp": "2026-07-17 21:43",
+    "topic_tags": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting Sort"
+    ]
+}
