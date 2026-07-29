@@ -7,9 +7,9 @@
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
 | **Runtime** | `N/A` |
-| **Memory** | `19272000` |
+| **Memory** | `19324000` |
 | **Topic Tags** | `Array` |
-| **Date** | `2026-07-27 20:56` |
+| **Date** | `2026-07-25 20:48` |
 
 ## Solution
 
