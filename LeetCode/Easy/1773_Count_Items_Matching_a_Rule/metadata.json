@@ -1,0 +1,16 @@
+{
+    "submission_id": "2073682405",
+    "problem_number": "1773",
+    "title": "1773. Count Items Matching a Rule",
+    "title_slug": "count-items-matching-a-rule",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 23564000,
+    "timestamp": "2026-07-19 21:58",
+    "topic_tags": [
+        "Array",
+        "String"
+    ]
+}
