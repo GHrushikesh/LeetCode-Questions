@@ -1,0 +1,17 @@
+{
+    "submission_id": "2069878619",
+    "problem_number": "217",
+    "title": "217. Contains Duplicate",
+    "title_slug": "contains-duplicate",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 17,
+    "memory": 32284000,
+    "timestamp": "2026-07-16 18:31",
+    "topic_tags": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+    ]
+}
