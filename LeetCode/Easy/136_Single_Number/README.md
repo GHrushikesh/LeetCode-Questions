@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Runtime** | `N/A` |
-| **Memory** | `N/A` |
+| **Runtime** | `7` |
+| **Memory** | `21656000` |
 | **Topic Tags** | `Array, Bit Manipulation` |
-| **Date** | `2026-07-29 17:07` |
+| **Date** | `2026-07-23 17:53` |
 
 ## Solution
 
