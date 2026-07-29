@@ -1,0 +1,16 @@
+{
+    "submission_id": "2083344424",
+    "problem_number": "448",
+    "title": "448. Find All Numbers Disappeared in an Array",
+    "title_slug": "find-all-numbers-disappeared-in-an-array",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 22,
+    "memory": 30468000,
+    "timestamp": "2026-07-27 18:09",
+    "topic_tags": [
+        "Array",
+        "Hash Table"
+    ]
+}
