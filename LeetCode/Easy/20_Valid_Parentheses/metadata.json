@@ -1,0 +1,16 @@
+{
+    "submission_id": "2084825594",
+    "problem_number": "20",
+    "title": "20. Valid Parentheses",
+    "title_slug": "valid-parentheses",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 3,
+    "memory": 19420000,
+    "timestamp": "2026-07-28 19:16",
+    "topic_tags": [
+        "String",
+        "Stack"
+    ]
+}
