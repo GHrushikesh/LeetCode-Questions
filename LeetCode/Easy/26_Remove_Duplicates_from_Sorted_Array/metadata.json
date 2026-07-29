@@ -1,0 +1,16 @@
+{
+    "submission_id": "2084791899",
+    "problem_number": "26",
+    "title": "26. Remove Duplicates from Sorted Array",
+    "title_slug": "remove-duplicates-from-sorted-array",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 20492000,
+    "timestamp": "2026-07-28 18:50",
+    "topic_tags": [
+        "Array",
+        "Two Pointers"
+    ]
+}
