@@ -1,0 +1,17 @@
+{
+    "submission_id": "1787111311",
+    "problem_number": "2",
+    "title": "2. Add Two Numbers",
+    "title_slug": "add-two-numbers",
+    "difficulty": "Medium",
+    "language": "Java",
+    "status": "Accepted",
+    "runtime": 2,
+    "memory": 44424000,
+    "timestamp": "2025-09-30 15:14",
+    "topic_tags": [
+        "Linked List",
+        "Math",
+        "Recursion"
+    ]
+}
