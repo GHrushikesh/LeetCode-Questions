@@ -1,0 +1,16 @@
+{
+    "submission_id": "2075779908",
+    "problem_number": "1832",
+    "title": "1832. Check if the Sentence Is Pangram",
+    "title_slug": "check-if-the-sentence-is-pangram",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19200000,
+    "timestamp": "2026-07-21 17:40",
+    "topic_tags": [
+        "Hash Table",
+        "String"
+    ]
+}
