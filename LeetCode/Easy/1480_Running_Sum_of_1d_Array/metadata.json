@@ -1,0 +1,16 @@
+{
+    "submission_id": "2069840833",
+    "problem_number": "1480",
+    "title": "1480. Running Sum of 1d Array",
+    "title_slug": "running-sum-of-1d-array",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19188000,
+    "timestamp": "2026-07-16 17:51",
+    "topic_tags": [
+        "Array",
+        "Prefix Sum"
+    ]
+}
