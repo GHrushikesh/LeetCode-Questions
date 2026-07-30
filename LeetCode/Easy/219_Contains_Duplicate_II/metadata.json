@@ -1,0 +1,17 @@
+{
+    "submission_id": "2087530286",
+    "problem_number": "219",
+    "title": "219. Contains Duplicate II",
+    "title_slug": "contains-duplicate-ii",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 42,
+    "memory": 39416000,
+    "timestamp": "2026-07-30 18:48",
+    "topic_tags": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+    ]
+}
