@@ -1,0 +1,18 @@
+{
+    "submission_id": "2087552318",
+    "problem_number": "844",
+    "title": "844. Backspace String Compare",
+    "title_slug": "backspace-string-compare",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19236000,
+    "timestamp": "2026-07-30 19:07",
+    "topic_tags": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Simulation"
+    ]
+}
