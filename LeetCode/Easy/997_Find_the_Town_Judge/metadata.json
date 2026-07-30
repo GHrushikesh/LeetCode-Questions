@@ -1,0 +1,17 @@
+{
+    "submission_id": "2087752286",
+    "problem_number": "997",
+    "title": "997. Find the Town Judge",
+    "title_slug": "find-the-town-judge",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 6,
+    "memory": 22652000,
+    "timestamp": "2026-07-30 21:46",
+    "topic_tags": [
+        "Array",
+        "Hash Table",
+        "Graph Theory"
+    ]
+}
