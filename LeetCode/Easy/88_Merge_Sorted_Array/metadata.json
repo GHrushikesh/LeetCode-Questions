@@ -1,0 +1,17 @@
+{
+    "submission_id": "2087725070",
+    "problem_number": "88",
+    "title": "88. Merge Sorted Array",
+    "title_slug": "merge-sorted-array",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19272000,
+    "timestamp": "2026-07-30 21:25",
+    "topic_tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+    ]
+}
