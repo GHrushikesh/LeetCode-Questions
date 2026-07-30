@@ -1,0 +1,16 @@
+{
+    "submission_id": "2087738369",
+    "problem_number": "1768",
+    "title": "1768. Merge Strings Alternately",
+    "title_slug": "merge-strings-alternately",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 45,
+    "memory": 19124000,
+    "timestamp": "2026-07-30 21:35",
+    "topic_tags": [
+        "Two Pointers",
+        "String"
+    ]
+}
