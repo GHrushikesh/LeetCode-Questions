@@ -1,0 +1,16 @@
+{
+    "submission_id": "2088832698",
+    "problem_number": "35",
+    "title": "35. Search Insert Position",
+    "title_slug": "search-insert-position",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19984000,
+    "timestamp": "2026-07-31 18:50",
+    "topic_tags": [
+        "Array",
+        "Binary Search"
+    ]
+}
