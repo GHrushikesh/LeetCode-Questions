@@ -1,0 +1,17 @@
+{
+    "submission_id": "2088844574",
+    "problem_number": "11",
+    "title": "11. Container With Most Water",
+    "title_slug": "container-with-most-water",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 62,
+    "memory": 29540000,
+    "timestamp": "2026-07-31 19:02",
+    "topic_tags": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+    ]
+}
