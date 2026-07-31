@@ -1,0 +1,17 @@
+{
+    "submission_id": "2088819520",
+    "problem_number": "2427",
+    "title": "2427. Number of Common Factors",
+    "title_slug": "number-of-common-factors",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19316000,
+    "timestamp": "2026-07-31 18:37",
+    "topic_tags": [
+        "Math",
+        "Enumeration",
+        "Number Theory"
+    ]
+}
