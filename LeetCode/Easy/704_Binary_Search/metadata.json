@@ -1,0 +1,16 @@
+{
+    "submission_id": "2088825998",
+    "problem_number": "704",
+    "title": "704. Binary Search",
+    "title_slug": "binary-search",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 20480000,
+    "timestamp": "2026-07-31 18:43",
+    "topic_tags": [
+        "Array",
+        "Binary Search"
+    ]
+}
