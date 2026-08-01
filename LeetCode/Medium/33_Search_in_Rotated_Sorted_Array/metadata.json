@@ -1,0 +1,16 @@
+{
+    "submission_id": "2090007237",
+    "problem_number": "33",
+    "title": "33. Search in Rotated Sorted Array",
+    "title_slug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19572000,
+    "timestamp": "2026-08-01 19:14",
+    "topic_tags": [
+        "Array",
+        "Binary Search"
+    ]
+}
