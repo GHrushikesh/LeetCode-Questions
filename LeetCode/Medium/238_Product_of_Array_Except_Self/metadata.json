@@ -1,0 +1,16 @@
+{
+    "submission_id": "2089974510",
+    "problem_number": "238",
+    "title": "238. Product of Array Except Self",
+    "title_slug": "product-of-array-except-self",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 30,
+    "memory": 27768000,
+    "timestamp": "2026-08-01 18:42",
+    "topic_tags": [
+        "Array",
+        "Prefix Sum"
+    ]
+}
