@@ -1,0 +1,16 @@
+{
+    "submission_id": "2091354539",
+    "problem_number": "171",
+    "title": "171. Excel Sheet Column Number",
+    "title_slug": "excel-sheet-column-number",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19152000,
+    "timestamp": "2026-08-02 18:12",
+    "topic_tags": [
+        "Math",
+        "String"
+    ]
+}
