@@ -1,0 +1,16 @@
+{
+    "submission_id": "2092587683",
+    "problem_number": "206",
+    "title": "206. Reverse Linked List",
+    "title_slug": "reverse-linked-list",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 20368000,
+    "timestamp": "2026-08-03 17:56",
+    "topic_tags": [
+        "Linked List",
+        "Recursion"
+    ]
+}
