@@ -1,0 +1,17 @@
+{
+    "submission_id": "2094058376",
+    "problem_number": "852",
+    "title": "852. Peak Index in a Mountain Array",
+    "title_slug": "peak-index-in-a-mountain-array",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 31324000,
+    "timestamp": "2026-08-04 19:18",
+    "topic_tags": [
+        "Array",
+        "Binary Search",
+        "Ternary Search"
+    ]
+}
