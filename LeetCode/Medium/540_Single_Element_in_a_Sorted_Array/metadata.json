@@ -1,0 +1,16 @@
+{
+    "submission_id": "2094272624",
+    "problem_number": "540",
+    "title": "540. Single Element in a Sorted Array",
+    "title_slug": "single-element-in-a-sorted-array",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 26964000,
+    "timestamp": "2026-08-04 21:52",
+    "topic_tags": [
+        "Array",
+        "Binary Search"
+    ]
+}
