@@ -1,0 +1,16 @@
+{
+    "submission_id": "2095311775",
+    "problem_number": "344",
+    "title": "344. Reverse String",
+    "title_slug": "reverse-string",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 23312000,
+    "timestamp": "2026-08-05 18:16",
+    "topic_tags": [
+        "Two Pointers",
+        "String"
+    ]
+}
