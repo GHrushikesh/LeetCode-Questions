@@ -1,0 +1,13 @@
+{
+    "submission_id": "2090067081",
+    "problem_number": "4006",
+    "title": "4006. Count Valid Prefixes",
+    "title_slug": "count-valid-prefixes",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 3,
+    "memory": 19280000,
+    "timestamp": "2026-08-01 20:05",
+    "topic_tags": []
+}
