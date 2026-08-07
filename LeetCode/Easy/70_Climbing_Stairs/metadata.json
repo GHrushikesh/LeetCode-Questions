@@ -1,0 +1,17 @@
+{
+    "submission_id": "2097993408",
+    "problem_number": "70",
+    "title": "70. Climbing Stairs",
+    "title_slug": "climbing-stairs",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19276000,
+    "timestamp": "2026-08-07 19:04",
+    "topic_tags": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+    ]
+}
