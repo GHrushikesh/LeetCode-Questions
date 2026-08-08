@@ -1,0 +1,18 @@
+{
+    "submission_id": "2098949422",
+    "problem_number": "141",
+    "title": "141. Linked List Cycle",
+    "title_slug": "linked-list-cycle",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 52,
+    "memory": 22568000,
+    "timestamp": "2026-08-08 15:36",
+    "topic_tags": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+    ]
+}
