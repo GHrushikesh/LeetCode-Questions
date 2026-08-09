@@ -1,0 +1,17 @@
+{
+    "submission_id": "2099922337",
+    "problem_number": "779",
+    "title": "779. K-th Symbol in Grammar",
+    "title_slug": "k-th-symbol-in-grammar",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19240000,
+    "timestamp": "2026-08-09 10:49",
+    "topic_tags": [
+        "Math",
+        "Bit Manipulation",
+        "Recursion"
+    ]
+}
