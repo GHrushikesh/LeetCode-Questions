@@ -1,0 +1,17 @@
+{
+    "submission_id": "2103089460",
+    "problem_number": "231",
+    "title": "231. Power of Two",
+    "title_slug": "power-of-two",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19260000,
+    "timestamp": "2026-08-11 21:36",
+    "topic_tags": [
+        "Math",
+        "Bit Manipulation",
+        "Recursion"
+    ]
+}
