@@ -1,0 +1,16 @@
+{
+    "submission_id": "2104158324",
+    "problem_number": "151",
+    "title": "151. Reverse Words in a String",
+    "title_slug": "reverse-words-in-a-string",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 11,
+    "memory": 19576000,
+    "timestamp": "2026-08-12 17:59",
+    "topic_tags": [
+        "Two Pointers",
+        "String"
+    ]
+}
