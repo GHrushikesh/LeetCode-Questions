@@ -1,4 +1,4 @@
-# #169 - 169. Majority Element
+# #169 - 169. Majority Element###
 
 ## Problem Metadata
 
