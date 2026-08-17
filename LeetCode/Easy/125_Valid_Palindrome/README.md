@@ -26,4 +26,4 @@ class Solution:
 ```
 
 ---
-*Generated automatically by [RG Sync](https://github.com).*
+*Generated automatically by [RG Sync](https://github.com).***
