@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
-| **Runtime** | `3` |
-| **Memory** | `19208000` |
+| **Runtime** | `7` |
+| **Memory** | `19344000` |
 | **Topic Tags** | `String, Stack, Simulation` |
-| **Date** | `2026-08-06 21:42` |
+| **Date** | `2026-08-21 12:05` |
 
 ## Solution
 
