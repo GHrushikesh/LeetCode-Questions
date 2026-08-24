@@ -1,13 +1,13 @@
 {
-    "submission_id": "2118609443",
+    "submission_id": "2118609611",
     "problem_number": "141",
     "title": "141. Linked List Cycle",
     "title_slug": "linked-list-cycle",
     "difficulty": "Easy",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": 44,
-    "memory": 22604000,
+    "runtime": 60,
+    "memory": 22424000,
     "timestamp": "2026-08-24 21:01",
     "topic_tags": [
         "Hash Table",
