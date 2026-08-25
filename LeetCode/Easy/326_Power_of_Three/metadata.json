@@ -1,14 +1,14 @@
 {
-    "submission_id": "2101723941",
+    "submission_id": "2101723658",
     "problem_number": "326",
     "title": "326. Power of Three",
     "title_slug": "power-of-three",
     "difficulty": "Easy",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": 12,
-    "memory": 19392000,
-    "timestamp": "2026-08-10 20:53",
+    "runtime": 7,
+    "memory": 19400000,
+    "timestamp": "2026-08-10 20:52",
     "topic_tags": [
         "Math",
         "Recursion"
