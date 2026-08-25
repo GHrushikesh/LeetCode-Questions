@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Runtime** | `7` |
-| **Memory** | `19400000` |
+| **Runtime** | `12` |
+| **Memory** | `19392000` |
 | **Topic Tags** | `Math, Recursion` |
-| **Date** | `2026-08-10 20:52` |
+| **Date** | `2026-08-10 20:53` |
 
 ## Solution
 
