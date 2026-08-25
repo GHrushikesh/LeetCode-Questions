@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
-| **Runtime** | `N/A` |
-| **Memory** | `19460000` |
+| **Runtime** | `3` |
+| **Memory** | `19112000` |
 | **Topic Tags** | `Two Pointers, String` |
-| **Date** | `2026-08-19 20:06` |
+| **Date** | `2026-08-18 21:24` |
 
 ## Solution
 
