@@ -8,7 +8,7 @@
 | **Language** | `Python3` |
 | **Runtime** | `3` |
 | **Memory** | `19280000` |
-| **Topic Tags** | `None` |
+| **Topic Tags** | `String, Counting` |
 | **Date** | `2026-08-01 20:05` |
 
 ## Solution
