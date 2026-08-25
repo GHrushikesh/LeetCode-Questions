@@ -6,8 +6,8 @@
 | :--- | :--- |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Runtime** | `60` |
-| **Memory** | `22424000` |
+| **Runtime** | `44` |
+| **Memory** | `22604000` |
 | **Topic Tags** | `Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm` |
 | **Date** | `2026-08-24 21:01` |
 
