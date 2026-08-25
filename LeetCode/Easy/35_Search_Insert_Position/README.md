@@ -7,9 +7,9 @@
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
 | **Runtime** | `N/A` |
-| **Memory** | `19984000` |
+| **Memory** | `19944000` |
 | **Topic Tags** | `Array, Binary Search` |
-| **Date** | `2026-07-31 18:50` |
+| **Date** | `2026-07-31 18:49` |
 
 ## Solution
 
