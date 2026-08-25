@@ -5,37 +5,31 @@
 | Metric | Value |
 | :--- | :--- |
 | **Difficulty** | `Medium` |
-| **Language** | `Java` |
-| **Runtime** | `5` |
-| **Memory** | `44752000` |
+| **Language** | `Python3` |
+| **Runtime** | `212` |
+| **Memory** | `20120000` |
 | **Topic Tags** | `Hash Table, String, Sliding Window` |
-| **Date** | `2025-09-30 15:16` |
+| **Date** | `2026-08-16 18:48` |
 
 ## Solution
 
-```java
-import java.util.*;
+```python3
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        chars = set()
+        left = 0
+        max_len = 0
 
-class Solution {
-    public int lengthOfLongestSubstring(String s) {
-        Map<Character, Integer> map = new HashMap<>();
-        int left = 0, maxLen = 0;
+        for right in range(len(s)):
+            # Remove characters until s[right] is unique
+            while s[right] in chars:
+                chars.remove(s[left])
+                left += 1
 
-        for (int right = 0; right < s.length(); right++) {
-            char c = s.charAt(right);
+            chars.add(s[right])
+            max_len = max(max_len, right - left + 1)
 
-            // If character already seen, move left pointer
-            if (map.containsKey(c)) {
-                left = Math.max(left, map.get(c) + 1);
-            }
-
-            map.put(c, right); // store/update the index of current char
-            maxLen = Math.max(maxLen, right - left + 1);
-        }
-
-        return maxLen;
-    }
-}
+        return max_len
 ```
 
 ---
