@@ -6,8 +6,8 @@
 | :--- | :--- |
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
-| **Runtime** | `7` |
-| **Memory** | `19396000` |
+| **Runtime** | `5` |
+| **Memory** | `19232000` |
 | **Topic Tags** | `String, Stack, Simulation` |
 | **Date** | `2026-08-22 16:50` |
 
