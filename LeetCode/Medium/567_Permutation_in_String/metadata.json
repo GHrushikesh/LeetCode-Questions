@@ -1,14 +1,14 @@
 {
-    "submission_id": "2117212264",
+    "submission_id": "2097966886",
     "problem_number": "567",
     "title": "567. Permutation in String",
     "title_slug": "permutation-in-string",
     "difficulty": "Medium",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": 15,
-    "memory": 19352000,
-    "timestamp": "2026-08-23 15:53",
+    "runtime": 16,
+    "memory": 19404000,
+    "timestamp": "2026-08-07 18:39",
     "topic_tags": [
         "Hash Table",
         "Two Pointers",
