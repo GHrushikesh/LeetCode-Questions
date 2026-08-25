@@ -1,14 +1,14 @@
 {
-    "submission_id": "2116061130",
+    "submission_id": "2096936668",
     "problem_number": "1910",
     "title": "1910. Remove All Occurrences of a Substring",
     "title_slug": "remove-all-occurrences-of-a-substring",
     "difficulty": "Medium",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": 5,
-    "memory": 19232000,
-    "timestamp": "2026-08-22 16:50",
+    "runtime": 7,
+    "memory": 19380000,
+    "timestamp": "2026-08-06 21:42",
     "topic_tags": [
         "String",
         "Stack",
