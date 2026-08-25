@@ -7,9 +7,9 @@
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
 | **Runtime** | `N/A` |
-| **Memory** | `19240000` |
+| **Memory** | `19348000` |
 | **Topic Tags** | `Math, Bit Manipulation, Recursion` |
-| **Date** | `2026-08-09 10:49` |
+| **Date** | `2026-08-09 10:48` |
 
 ## Solution
 
