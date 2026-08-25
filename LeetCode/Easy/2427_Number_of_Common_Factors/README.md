@@ -8,7 +8,7 @@
 | **Language** | `Python3` |
 | **Runtime** | `N/A` |
 | **Memory** | `19316000` |
-| **Topic Tags** | `Math, Enumeration, Number Theory` |
+| **Topic Tags** | `Math, Enumeration, Number Theory, Euclidean Algorithm, Greatest Common Divisor` |
 | **Date** | `2026-07-31 18:37` |
 
 ## Solution
