@@ -7,9 +7,9 @@
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
 | **Runtime** | `N/A` |
-| **Memory** | `19296000` |
+| **Memory** | `19460000` |
 | **Topic Tags** | `Two Pointers, String` |
-| **Date** | `2026-08-20 20:19` |
+| **Date** | `2026-08-19 20:06` |
 
 ## Solution
 
