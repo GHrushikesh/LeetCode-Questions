@@ -1,14 +1,14 @@
 {
-    "submission_id": "2110088552",
+    "submission_id": "2105429504",
     "problem_number": "443",
     "title": "443. String Compression",
     "title_slug": "string-compression",
     "difficulty": "Medium",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": "N/A",
-    "memory": 19416000,
-    "timestamp": "2026-08-17 17:28",
+    "runtime": 3,
+    "memory": 19412000,
+    "timestamp": "2026-08-13 18:25",
     "topic_tags": [
         "Two Pointers",
         "String"
