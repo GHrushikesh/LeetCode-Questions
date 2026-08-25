@@ -5,36 +5,40 @@
 | Metric | Value |
 | :--- | :--- |
 | **Difficulty** | `Medium` |
-| **Language** | `Python` |
-| **Runtime** | `464` |
-| **Memory** | `12528000` |
-| **Topic Tags** | `Two Pointers, String, Dynamic Programming` |
-| **Date** | `2026-05-21 11:06` |
+| **Language** | `Python3` |
+| **Runtime** | `237` |
+| **Memory** | `19180000` |
+| **Topic Tags** | `Two Pointers, String, Dynamic Programming, Manacher` |
+| **Date** | `2026-08-14 21:37` |
 
 ## Solution
 
-```python
+```python3
 class Solution:
-    def longestPalindrome(self, s):
-        res = ""
-        
+    def longestPalindrome(self, s: str) -> str:
+        start = end = 0
+
+        def expand(left, right):
+            while left >= 0 and right < len(s) and s[left] == s[right]:
+                left -= 1
+                right += 1
+
+            return left + 1, right - 1
+
         for i in range(len(s)):
-            
-            l, r = i, i
-            while l >= 0 and r < len(s) and s[l] == s[r]:
-                if (r - l + 1) > len(res):
-                    res = s[l:r+1]
-                l -= 1
-                r += 1
+    
+            l1, r1 = expand(i, i)
 
-            l, r = i, i + 1
-            while l >= 0 and r < len(s) and s[l] == s[r]:
-                if (r - l + 1) > len(res):
-                    res = s[l:r+1]
-                l -= 1
-                r += 1
+       
+            l2, r2 = expand(i, i + 1)
 
-        return res
+            if r1 - l1 > end - start:
+                start, end = l1, r1
+
+            if r2 - l2 > end - start:
+                start, end = l2, r2
+
+        return s[start:end + 1]
 ```
 
 ---

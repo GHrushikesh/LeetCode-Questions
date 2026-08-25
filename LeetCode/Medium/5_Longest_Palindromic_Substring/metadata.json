@@ -1,17 +1,18 @@
 {
-    "submission_id": "2008729038",
+    "submission_id": "2106785761",
     "problem_number": "5",
     "title": "5. Longest Palindromic Substring",
     "title_slug": "longest-palindromic-substring",
     "difficulty": "Medium",
-    "language": "Python",
+    "language": "Python3",
     "status": "Accepted",
-    "runtime": 464,
-    "memory": 12528000,
-    "timestamp": "2026-05-21 11:06",
+    "runtime": 237,
+    "memory": 19180000,
+    "timestamp": "2026-08-14 21:37",
     "topic_tags": [
         "Two Pointers",
         "String",
-        "Dynamic Programming"
+        "Dynamic Programming",
+        "Manacher"
     ]
 }
