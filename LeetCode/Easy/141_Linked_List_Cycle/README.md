@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Runtime** | `44` |
-| **Memory** | `22604000` |
+| **Runtime** | `61` |
+| **Memory** | `22412000` |
 | **Topic Tags** | `Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm` |
-| **Date** | `2026-08-24 21:01` |
+| **Date** | `2026-08-24 21:00` |
 
 ## Solution
 
