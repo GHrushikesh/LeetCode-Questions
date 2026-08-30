@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
-| **Runtime** | `46` |
-| **Memory** | `19156000` |
+| **Runtime** | `47` |
+| **Memory** | `19296000` |
 | **Topic Tags** | `Math` |
-| **Date** | `2026-08-29 19:08` |
+| **Date** | `2026-08-26 21:47` |
 
 ## Solution
 
