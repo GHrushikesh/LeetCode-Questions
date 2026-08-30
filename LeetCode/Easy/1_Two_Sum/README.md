@@ -1,4 +1,4 @@
-# #1 - 1. Two Sum##
+# #1 - 1. Two Sum
 
 ## Problem Metadata
 
@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Runtime** | `1737` |
-| **Memory** | `19928000` |
+| **Runtime** | `1481` |
+| **Memory** | `19708000` |
 | **Topic Tags** | `Array, Hash Table` |
-| **Date** | `2026-07-28 11:44` |
+| **Date** | `2026-08-30 22:58` |
 
 ## Solution
 
