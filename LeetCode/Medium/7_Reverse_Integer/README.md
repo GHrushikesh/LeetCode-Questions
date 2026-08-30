@@ -6,8 +6,8 @@
 | :--- | :--- |
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
-| **Runtime** | `47` |
-| **Memory** | `19296000` |
+| **Runtime** | `44` |
+| **Memory** | `19112000` |
 | **Topic Tags** | `Math` |
 | **Date** | `2026-08-26 21:47` |
 
