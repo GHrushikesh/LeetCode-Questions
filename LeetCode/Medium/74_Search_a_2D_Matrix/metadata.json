@@ -1,0 +1,17 @@
+{
+    "submission_id": "2124921929",
+    "problem_number": "74",
+    "title": "74. Search a 2D Matrix",
+    "title_slug": "search-a-2d-matrix",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19516000,
+    "timestamp": "2026-08-30 16:05",
+    "topic_tags": [
+        "Array",
+        "Binary Search",
+        "Matrix"
+    ]
+}
