@@ -1,14 +1,14 @@
 {
-    "submission_id": "2107420226",
+    "submission_id": "2122876773",
     "problem_number": "3",
     "title": "3. Longest Substring Without Repeating Characters",
     "title_slug": "longest-substring-without-repeating-characters",
     "difficulty": "Medium",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": 211,
-    "memory": 19872000,
-    "timestamp": "2026-08-15 14:00",
+    "runtime": 205,
+    "memory": 19884000,
+    "timestamp": "2026-08-28 18:16",
     "topic_tags": [
         "Hash Table",
         "String",
