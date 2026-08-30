@@ -1,14 +1,14 @@
 {
-    "submission_id": "2121008844",
+    "submission_id": "2120667955",
     "problem_number": "7",
     "title": "7. Reverse Integer",
     "title_slug": "reverse-integer",
     "difficulty": "Medium",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": 54,
-    "memory": 19240000,
-    "timestamp": "2026-08-26 21:43",
+    "runtime": 37,
+    "memory": 19076000,
+    "timestamp": "2026-08-26 15:48",
     "topic_tags": [
         "Math"
     ]
