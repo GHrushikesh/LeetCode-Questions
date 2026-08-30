@@ -7,7 +7,7 @@
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
 | **Runtime** | `N/A` |
-| **Memory** | `19328000` |
+| **Memory** | `19316000` |
 | **Topic Tags** | `Array, Matrix, Simulation` |
 | **Date** | `2026-08-30 22:50` |
 
