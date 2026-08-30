@@ -1,0 +1,18 @@
+{
+    "submission_id": "2125257182",
+    "problem_number": "240",
+    "title": "240. Search a 2D Matrix II",
+    "title_slug": "search-a-2d-matrix-ii",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 140,
+    "memory": 25564000,
+    "timestamp": "2026-08-30 22:09",
+    "topic_tags": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer",
+        "Matrix"
+    ]
+}
