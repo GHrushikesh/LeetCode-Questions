@@ -1,0 +1,17 @@
+{
+    "submission_id": "2128317214",
+    "problem_number": "15",
+    "title": "15. 3Sum",
+    "title_slug": "3sum",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 1109,
+    "memory": 22200000,
+    "timestamp": "2026-09-02 16:01",
+    "topic_tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+    ]
+}
