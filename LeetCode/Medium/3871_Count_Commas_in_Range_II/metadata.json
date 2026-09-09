@@ -1,0 +1,15 @@
+{
+    "submission_id": "2136647503",
+    "problem_number": "3871",
+    "title": "3871. Count Commas in Range II",
+    "title_slug": "count-commas-in-range-ii",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 3,
+    "memory": 19156000,
+    "timestamp": "2026-09-09 22:49",
+    "topic_tags": [
+        "Math"
+    ]
+}
