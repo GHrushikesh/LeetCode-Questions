@@ -1,0 +1,17 @@
+{
+    "submission_id": "2137466054",
+    "problem_number": "2265",
+    "title": "2265. Count Nodes Equal to Average of Subtree",
+    "title_slug": "count-nodes-equal-to-average-of-subtree",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 48,
+    "memory": 19788000,
+    "timestamp": "2026-09-10 17:57",
+    "topic_tags": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+    ]
+}
