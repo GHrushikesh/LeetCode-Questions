@@ -1,0 +1,16 @@
+{
+    "submission_id": "2140462637",
+    "problem_number": "835",
+    "title": "835. Image Overlap",
+    "title_slug": "image-overlap",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 348,
+    "memory": 19792000,
+    "timestamp": "2026-09-13 15:03",
+    "topic_tags": [
+        "Array",
+        "Matrix"
+    ]
+}
