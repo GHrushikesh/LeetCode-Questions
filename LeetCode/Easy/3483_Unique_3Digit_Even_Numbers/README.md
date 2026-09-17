@@ -7,9 +7,9 @@
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
 | **Runtime** | `15` |
-| **Memory** | `19484000` |
+| **Memory** | `19316000` |
 | **Topic Tags** | `Array, Hash Table, Recursion, Enumeration` |
-| **Date** | `2026-09-11 16:55` |
+| **Date** | `2026-09-17 17:57` |
 
 ## Solution
 
