@@ -7,7 +7,7 @@
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
 | **Runtime** | `N/A` |
-| **Memory** | `19312000` |
+| **Memory** | `19300000` |
 | **Topic Tags** | `Math, Geometry` |
 | **Date** | `2026-09-19 19:03` |
 

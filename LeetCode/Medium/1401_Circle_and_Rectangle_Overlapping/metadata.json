@@ -1,5 +1,5 @@
 {
-    "submission_id": "2146683150",
+    "submission_id": "2146683424",
     "problem_number": "1401",
     "title": "1401. Circle and Rectangle Overlapping",
     "title_slug": "circle-and-rectangle-overlapping",
@@ -7,7 +7,7 @@
     "language": "Python3",
     "status": "Accepted",
     "runtime": "N/A",
-    "memory": 19312000,
+    "memory": 19300000,
     "timestamp": "2026-09-19 19:03",
     "topic_tags": [
         "Math",
