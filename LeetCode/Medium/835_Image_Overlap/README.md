@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
-| **Runtime** | `348` |
-| **Memory** | `19792000` |
+| **Runtime** | `346` |
+| **Memory** | `19824000` |
 | **Topic Tags** | `Array, Matrix` |
-| **Date** | `2026-09-13 15:03` |
+| **Date** | `2026-09-13 15:01` |
 
 ## Solution
 
