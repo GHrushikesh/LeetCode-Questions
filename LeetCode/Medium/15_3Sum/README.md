@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
-| **Runtime** | `1109` |
-| **Memory** | `22200000` |
+| **Runtime** | `1210` |
+| **Memory** | `22400000` |
 | **Topic Tags** | `Array, Two Pointers, Sorting` |
-| **Date** | `2026-09-02 16:01` |
+| **Date** | `2026-09-09 19:08` |
 
 ## Solution
 
