@@ -1,5 +1,5 @@
 {
-    "submission_id": "2145723409",
+    "submission_id": "2145723303",
     "problem_number": "3483",
     "title": "3483. Unique 3-Digit Even Numbers",
     "title_slug": "unique-3-digit-even-numbers",
@@ -7,7 +7,7 @@
     "language": "Python3",
     "status": "Accepted",
     "runtime": 15,
-    "memory": 19192000,
+    "memory": 19316000,
     "timestamp": "2026-09-18 17:58",
     "topic_tags": [
         "Array",
