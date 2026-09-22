@@ -1,0 +1,17 @@
+{
+    "submission_id": "2149739096",
+    "problem_number": "560",
+    "title": "560. Subarray Sum Equals K",
+    "title_slug": "subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 30,
+    "memory": 21636000,
+    "timestamp": "2026-09-22 18:42",
+    "topic_tags": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+    ]
+}
