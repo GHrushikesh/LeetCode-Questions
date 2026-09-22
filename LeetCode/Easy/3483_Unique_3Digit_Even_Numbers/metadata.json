@@ -1,14 +1,14 @@
 {
-    "submission_id": "2145723303",
+    "submission_id": "2143601221",
     "problem_number": "3483",
     "title": "3483. Unique 3-Digit Even Numbers",
     "title_slug": "unique-3-digit-even-numbers",
     "difficulty": "Easy",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": 15,
-    "memory": 19316000,
-    "timestamp": "2026-09-18 17:58",
+    "runtime": 11,
+    "memory": 19224000,
+    "timestamp": "2026-09-16 17:10",
     "topic_tags": [
         "Array",
         "Hash Table",

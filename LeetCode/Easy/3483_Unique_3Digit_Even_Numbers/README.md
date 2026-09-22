@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Runtime** | `15` |
-| **Memory** | `19316000` |
+| **Runtime** | `11` |
+| **Memory** | `19224000` |
 | **Topic Tags** | `Array, Hash Table, Recursion, Enumeration` |
-| **Date** | `2026-09-18 17:58` |
+| **Date** | `2026-09-16 17:10` |
 
 ## Solution
 
