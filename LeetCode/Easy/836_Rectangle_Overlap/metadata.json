@@ -1,5 +1,5 @@
 {
-    "submission_id": "2141408265",
+    "submission_id": "2142592724",
     "problem_number": "836",
     "title": "836. Rectangle Overlap",
     "title_slug": "rectangle-overlap",
@@ -7,8 +7,8 @@
     "language": "Python3",
     "status": "Accepted",
     "runtime": "N/A",
-    "memory": 19232000,
-    "timestamp": "2026-09-14 15:03",
+    "memory": 19256000,
+    "timestamp": "2026-09-15 18:22",
     "topic_tags": [
         "Math",
         "Geometry"

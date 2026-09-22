@@ -7,9 +7,9 @@
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
 | **Runtime** | `N/A` |
-| **Memory** | `19232000` |
+| **Memory** | `19256000` |
 | **Topic Tags** | `Math, Geometry` |
-| **Date** | `2026-09-14 15:03` |
+| **Date** | `2026-09-15 18:22` |
 
 ## Solution
 
