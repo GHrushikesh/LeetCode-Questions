@@ -1,14 +1,14 @@
 {
-    "submission_id": "2133835142",
+    "submission_id": "2129624768",
     "problem_number": "15",
     "title": "15. 3Sum",
     "title_slug": "3sum",
     "difficulty": "Medium",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": 1228,
-    "memory": 22276000,
-    "timestamp": "2026-09-07 17:15",
+    "runtime": 1218,
+    "memory": 22280000,
+    "timestamp": "2026-09-03 18:34",
     "topic_tags": [
         "Array",
         "Two Pointers",
