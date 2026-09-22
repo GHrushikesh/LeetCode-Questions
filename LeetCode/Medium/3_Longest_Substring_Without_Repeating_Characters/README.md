@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
-| **Runtime** | `207` |
-| **Memory** | `19968000` |
+| **Runtime** | `209` |
+| **Memory** | `19896000` |
 | **Topic Tags** | `Hash Table, String, Sliding Window` |
-| **Date** | `2026-09-06 11:39` |
+| **Date** | `2026-09-04 15:07` |
 
 ## Solution
 
