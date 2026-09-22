@@ -6,10 +6,10 @@
 | :--- | :--- |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Runtime** | `7` |
-| **Memory** | `19532000` |
+| **Runtime** | `2` |
+| **Memory** | `19452000` |
 | **Topic Tags** | `Array, Hash Table, Math, Matrix` |
-| **Date** | `2026-08-31 19:54` |
+| **Date** | `2026-09-01 16:50` |
 
 ## Solution
 

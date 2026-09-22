@@ -1,14 +1,14 @@
 {
-    "submission_id": "2126193434",
+    "submission_id": "2127146362",
     "problem_number": "2965",
     "title": "2965. Find Missing and Repeated Values",
     "title_slug": "find-missing-and-repeated-values",
     "difficulty": "Easy",
     "language": "Python3",
     "status": "Accepted",
-    "runtime": 7,
-    "memory": 19532000,
-    "timestamp": "2026-08-31 19:54",
+    "runtime": 2,
+    "memory": 19452000,
+    "timestamp": "2026-09-01 16:50",
     "topic_tags": [
         "Array",
         "Hash Table",
