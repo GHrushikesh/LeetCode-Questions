@@ -6,8 +6,8 @@
 | :--- | :--- |
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
-| **Runtime** | `346` |
-| **Memory** | `19824000` |
+| **Runtime** | `353` |
+| **Memory** | `19880000` |
 | **Topic Tags** | `Array, Matrix` |
 | **Date** | `2026-09-13 15:01` |
 
