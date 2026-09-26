@@ -1,0 +1,17 @@
+{
+    "submission_id": "2153903095",
+    "problem_number": "1807",
+    "title": "1807. Evaluate the Bracket Pairs of a String",
+    "title_slug": "evaluate-the-bracket-pairs-of-a-string",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 47,
+    "memory": 51944000,
+    "timestamp": "2026-09-26 19:08",
+    "topic_tags": [
+        "Array",
+        "Hash Table",
+        "String"
+    ]
+}
