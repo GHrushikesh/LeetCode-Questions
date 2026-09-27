@@ -1,0 +1,17 @@
+{
+    "submission_id": "2154946070",
+    "problem_number": "1190",
+    "title": "1190. Reverse Substrings Between Each Pair of Parentheses",
+    "title_slug": "reverse-substrings-between-each-pair-of-parentheses",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 19,
+    "memory": 19156000,
+    "timestamp": "2026-09-27 17:59",
+    "topic_tags": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+    ]
+}
