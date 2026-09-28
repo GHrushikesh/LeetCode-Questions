@@ -1,0 +1,17 @@
+{
+    "submission_id": "2156125388",
+    "problem_number": "1614",
+    "title": "1614. Maximum Nesting Depth of the Parentheses",
+    "title_slug": "maximum-nesting-depth-of-the-parentheses",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19212000,
+    "timestamp": "2026-09-28 20:54",
+    "topic_tags": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+    ]
+}
