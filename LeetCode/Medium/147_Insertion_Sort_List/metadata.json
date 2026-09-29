@@ -1,0 +1,16 @@
+{
+    "submission_id": "2157342459",
+    "problem_number": "147",
+    "title": "147. Insertion Sort List",
+    "title_slug": "insertion-sort-list",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 388,
+    "memory": 21144000,
+    "timestamp": "2026-09-29 22:17",
+    "topic_tags": [
+        "Linked List",
+        "Sorting"
+    ]
+}
