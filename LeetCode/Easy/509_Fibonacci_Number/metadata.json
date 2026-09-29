@@ -1,0 +1,18 @@
+{
+    "submission_id": "2157287021",
+    "problem_number": "509",
+    "title": "509. Fibonacci Number",
+    "title_slug": "fibonacci-number",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 377,
+    "memory": 19340000,
+    "timestamp": "2026-09-29 21:33",
+    "topic_tags": [
+        "Math",
+        "Dynamic Programming",
+        "Recursion",
+        "Memoization"
+    ]
+}
