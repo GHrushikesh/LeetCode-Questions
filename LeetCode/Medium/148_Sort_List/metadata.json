@@ -1,0 +1,19 @@
+{
+    "submission_id": "2157339992",
+    "problem_number": "148",
+    "title": "148. Sort List",
+    "title_slug": "sort-list",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 162,
+    "memory": 40532000,
+    "timestamp": "2026-09-29 22:15",
+    "topic_tags": [
+        "Linked List",
+        "Two Pointers",
+        "Divide and Conquer",
+        "Sorting",
+        "Merge Sort"
+    ]
+}
