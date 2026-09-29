@@ -1,0 +1,17 @@
+{
+    "submission_id": "2157307898",
+    "problem_number": "78",
+    "title": "78. Subsets",
+    "title_slug": "subsets",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19292000,
+    "timestamp": "2026-09-29 21:50",
+    "topic_tags": [
+        "Array",
+        "Backtracking",
+        "Bit Manipulation"
+    ]
+}
