@@ -1,0 +1,18 @@
+{
+    "submission_id": "2157329342",
+    "problem_number": "435",
+    "title": "435. Non-overlapping Intervals",
+    "title_slug": "non-overlapping-intervals",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 84,
+    "memory": 48996000,
+    "timestamp": "2026-09-29 22:07",
+    "topic_tags": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+    ]
+}
