@@ -1,0 +1,18 @@
+{
+    "submission_id": "2157320733",
+    "problem_number": "1039",
+    "title": "1039. Minimum Score Triangulation of Polygon",
+    "title_slug": "minimum-score-triangulation-of-polygon",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 55,
+    "memory": 19928000,
+    "timestamp": "2026-09-29 22:00",
+    "topic_tags": [
+        "Array",
+        "Dynamic Programming",
+        "Triangulation",
+        "Polygons"
+    ]
+}
