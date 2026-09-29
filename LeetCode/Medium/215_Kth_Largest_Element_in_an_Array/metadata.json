@@ -1,0 +1,19 @@
+{
+    "submission_id": "2157337190",
+    "problem_number": "215",
+    "title": "215. Kth Largest Element in an Array",
+    "title_slug": "kth-largest-element-in-an-array",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 111,
+    "memory": 30920000,
+    "timestamp": "2026-09-29 22:13",
+    "topic_tags": [
+        "Array",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+    ]
+}
