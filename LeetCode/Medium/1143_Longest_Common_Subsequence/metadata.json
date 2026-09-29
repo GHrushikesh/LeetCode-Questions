@@ -1,0 +1,17 @@
+{
+    "submission_id": "2157322231",
+    "problem_number": "1143",
+    "title": "1143. Longest Common Subsequence",
+    "title_slug": "longest-common-subsequence",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 334,
+    "memory": 44484000,
+    "timestamp": "2026-09-29 22:01",
+    "topic_tags": [
+        "String",
+        "Dynamic Programming",
+        "Longest Common Subsequence"
+    ]
+}
