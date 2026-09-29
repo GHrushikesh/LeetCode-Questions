@@ -1,0 +1,19 @@
+{
+    "submission_id": "2157324447",
+    "problem_number": "322",
+    "title": "322. Coin Change",
+    "title_slug": "coin-change",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 344,
+    "memory": 19540000,
+    "timestamp": "2026-09-29 22:03",
+    "topic_tags": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Knapsack Problem",
+        "Complete Knapsack"
+    ]
+}
