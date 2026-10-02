@@ -7,9 +7,9 @@
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
 | **Runtime** | `N/A` |
-| **Memory** | `19336000` |
+| **Memory** | `19276000` |
 | **Topic Tags** | `Linked List, Recursion` |
-| **Date** | `2026-09-29 22:19` |
+| **Date** | `2026-10-02 18:26` |
 
 ## Solution
 

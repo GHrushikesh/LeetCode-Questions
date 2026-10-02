@@ -1,5 +1,5 @@
 {
-    "submission_id": "2157345363",
+    "submission_id": "2160148710",
     "problem_number": "21",
     "title": "21. Merge Two Sorted Lists",
     "title_slug": "merge-two-sorted-lists",
@@ -7,8 +7,8 @@
     "language": "Python3",
     "status": "Accepted",
     "runtime": "N/A",
-    "memory": 19336000,
-    "timestamp": "2026-09-29 22:19",
+    "memory": 19276000,
+    "timestamp": "2026-10-02 18:26",
     "topic_tags": [
         "Linked List",
         "Recursion"
