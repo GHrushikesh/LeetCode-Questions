@@ -7,25 +7,38 @@
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
 | **Runtime** | `N/A` |
-| **Memory** | `19500000` |
+| **Memory** | `19216000` |
 | **Topic Tags** | `Array, Backtracking, Bit Manipulation` |
-| **Date** | `2026-10-04 18:55` |
+| **Date** | `2026-10-04 18:58` |
 
 ## Solution
 
 ```python3
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
-        nums.sort()
+        n = len(nums)
+
+        for i in range(n):
+            smallest = i
+
+            for j in range(i + 1, n):
+                if nums[j] < nums[smallest]:
+                    smallest = j
+
+            nums[i], nums[smallest] = nums[smallest], nums[i]
 
         result = []
         current = []
 
         def backtrack(index):
-            result.append(current.copy())
+            temp = []
 
-            for i in range(index, len(nums)):
+            for value in current:
+                temp.append(value)
 
+            result.append(temp)
+
+            for i in range(index, n):
                 if i > index and nums[i] == nums[i - 1]:
                     continue
 
