@@ -7,7 +7,7 @@
 | **Difficulty** | `Medium` |
 | **Language** | `Python3` |
 | **Runtime** | `N/A` |
-| **Memory** | `19216000` |
+| **Memory** | `19564000` |
 | **Topic Tags** | `Array, Backtracking, Bit Manipulation` |
 | **Date** | `2026-10-04 18:58` |
 
