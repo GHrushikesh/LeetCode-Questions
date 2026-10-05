@@ -1,0 +1,17 @@
+{
+    "submission_id": "2163171634",
+    "problem_number": "856",
+    "title": "856. Score of Parentheses",
+    "title_slug": "score-of-parentheses",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": "N/A",
+    "memory": 19052000,
+    "timestamp": "2026-10-05 19:15",
+    "topic_tags": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+    ]
+}
