@@ -1,0 +1,18 @@
+{
+    "submission_id": "2164179509",
+    "problem_number": "921",
+    "title": "921. Minimum Add to Make Parentheses Valid",
+    "title_slug": "minimum-add-to-make-parentheses-valid",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 3,
+    "memory": 19412000,
+    "timestamp": "2026-10-06 17:13",
+    "topic_tags": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Bracket Sequences"
+    ]
+}
