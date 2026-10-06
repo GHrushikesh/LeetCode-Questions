@@ -1,0 +1,16 @@
+{
+    "submission_id": "2164137897",
+    "problem_number": "46",
+    "title": "46. Permutations",
+    "title_slug": "permutations",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 3,
+    "memory": 19640000,
+    "timestamp": "2026-10-06 16:16",
+    "topic_tags": [
+        "Array",
+        "Backtracking"
+    ]
+}
