@@ -1,0 +1,17 @@
+{
+    "submission_id": "2166495917",
+    "problem_number": "1021",
+    "title": "1021. Remove Outermost Parentheses",
+    "title_slug": "remove-outermost-parentheses",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 4,
+    "memory": 19352000,
+    "timestamp": "2026-10-08 21:32",
+    "topic_tags": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+    ]
+}
