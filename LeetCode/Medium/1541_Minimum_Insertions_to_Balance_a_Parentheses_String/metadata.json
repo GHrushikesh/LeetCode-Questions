@@ -1,0 +1,18 @@
+{
+    "submission_id": "2167274245",
+    "problem_number": "1541",
+    "title": "1541. Minimum Insertions to Balance a Parentheses String",
+    "title_slug": "minimum-insertions-to-balance-a-parentheses-string",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "status": "Accepted",
+    "runtime": 87,
+    "memory": 20072000,
+    "timestamp": "2026-10-09 18:00",
+    "topic_tags": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Bracket Sequences"
+    ]
+}
